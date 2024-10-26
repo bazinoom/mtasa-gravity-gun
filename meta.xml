@@ -1,0 +1,7 @@
+<meta>
+	<script src="ggun.lua" />
+	<script src="ggunc.lua" type="client" cache="false" />
+    <script src="ggun_toggle.lua" type="server" />
+	<export function="togglePlayerGravityGun" type="server" />
+	<export function="isGravityGunEnabled" type="server" />
+</meta>
